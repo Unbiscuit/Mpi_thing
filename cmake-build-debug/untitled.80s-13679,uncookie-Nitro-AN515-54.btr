@@ -1,0 +1,9 @@
+
+untitled:13679 terminated with signal 11 at PC=7f2da7f31264 SP=7ffe5d9248e8.  Backtrace:
+/lib/x86_64-linux-gnu/libmpich.so.12(+0x2131264)[0x7f2da7f31264]
+/lib/x86_64-linux-gnu/libmpich.so.12(PMPI_Info_get+0x2d5)[0x7f2da5ee0bc5]
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x1ac1)[0x564aea719ac1]
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x1b4a)[0x564aea719b4a]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f2da5a29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f2da5a29e40]
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x1325)[0x564aea719325]

@@ -1,0 +1,7 @@
+
+untitled:14811 terminated with signal 11 at PC=7ff1da4cf7c3 SP=7fff18aad820.  Backtrace:
+/lib/x86_64-linux-gnu/libmpich.so.12(PMPI_T_cvar_read+0x33)[0x7ff1da4cf7c3]
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x12cb)[0x55d79ebfd2cb]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7ff1da029d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7ff1da029e40]
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x1185)[0x55d79ebfd185]

@@ -1,0 +1,3 @@
+/home/uncookie/CLionProjects/Mpi_thing/cmake-build-debug/CMakeFiles/Mpi_thing.dir
+/home/uncookie/CLionProjects/Mpi_thing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/uncookie/CLionProjects/Mpi_thing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

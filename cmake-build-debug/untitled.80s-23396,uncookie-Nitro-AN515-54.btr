@@ -1,0 +1,7 @@
+
+untitled:23396 terminated with signal 11 at PC=55d63a65678a SP=7ffeaf9dce00.  Backtrace:
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x178a)[0x55d63a65678a]
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x17f5)[0x55d63a6567f5]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7feb67429d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7feb67429e40]
+/home/uncookie/CLionProjects/untitled/cmake-build-debug/untitled(+0x1265)[0x55d63a656265]
